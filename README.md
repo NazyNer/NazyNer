@@ -34,7 +34,7 @@
 
 - ☁️ Estoy interesado en el **desarrollo de sistemas webs**. Por eso estoy aprendiendo **.net**
 
-- 📫 si quiere saber mas sobre mi **[nishantjangid6377@gmail.com](https://www.linkedin.com/in/nestor-arcangel-maldonado/)**
+- 📫 si quiere saber mas sobre mi **[linkedin](https://www.linkedin.com/in/nestor-arcangel-maldonado/)**
 
 <!--Intro end-->
 
