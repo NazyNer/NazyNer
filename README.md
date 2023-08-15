@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 actualmente estoy trabajando con **React, Nodejs, SqlServer, MySql, Postgres, .net**
 
-- 🟦🔷🔹 obviamente se de enmaquetacion y diseño web **HTML, CSS** 
+- 🟦🔷🔹 obviamente se de maquetacion y diseño web **HTML, CSS** 
 
 - 📚👨‍🎓 Actualmente estoy aprendiendo **Desarrollo de Software En la universidad**
 
