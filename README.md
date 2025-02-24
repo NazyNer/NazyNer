@@ -26,12 +26,14 @@
 
 
 <!--Intro start-->
-- 🔭 actualmente estoy trabajando con **React, Nodejs, SqlServer, MySql, Postgres, .net**
+- 🔭 Hoy en dia estoy trabajando con **React, Nodejs, SqlServer, .net**
 
 - 🟦🔷🔹 obviamente se de maquetacion y diseño web **HTML, CSS** 
 
-- 📚👨‍🎓 Actualmente estoy aprendiendo **Desarrollo de Software En la universidad**
+- 📚👨‍🎓 Soy egresado de la carrera **Tecnico Superior en Desarrollo de Software**
 
+- 📚Actualmente estoy estudiando en un curso de ciberseguridad en Coderhouse.
+  
 - ☁️ Estoy interesado en el **desarrollo de sistemas webs**. Por eso estoy aprendiendo **.net**
 
 - 📫 si quiere saber mas sobre mi **[linkedin](https://www.linkedin.com/in/nestor-arcangel-maldonado/)**
